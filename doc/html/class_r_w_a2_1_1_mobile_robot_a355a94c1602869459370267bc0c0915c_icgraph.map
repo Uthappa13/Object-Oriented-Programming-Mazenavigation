@@ -1,0 +1,5 @@
+<map id="RWA2::MobileRobot::print_status" name="RWA2::MobileRobot::print_status">
+<area shape="rect" id="node1" title="Print the current position, orientation and speed of the robot." alt="" coords="209,39,368,80"/>
+<area shape="rect" id="node2" href="$class_r_w_a2_1_1_aerial_robot.html#ae738b1a11c43e8d19f4b447e38e26e22" title="Print the status of the robot." alt="" coords="7,5,160,47"/>
+<area shape="rect" id="node3" href="$class_r_w_a2_1_1_aquatic_robot.html#a3d5b7fbcb1867ee3d5925ad673efffd3" title="Print the status of the robot." alt="" coords="5,71,161,112"/>
+</map>

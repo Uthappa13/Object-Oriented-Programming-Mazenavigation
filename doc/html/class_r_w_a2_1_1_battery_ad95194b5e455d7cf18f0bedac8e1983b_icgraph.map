@@ -1,0 +1,6 @@
+<map id="RWA2::Battery::get_current_charge" name="RWA2::Battery::get_current_charge">
+<area shape="rect" id="node1" title="Get the capacity of the battery." alt="" coords="252,64,397,105"/>
+<area shape="rect" id="node2" href="$class_r_w_a2_1_1_mobile_robot.html#a5c7d6aa9eb003992d1bb8abc11e6f71d" title="Get the battery level of the robot." alt="" coords="25,5,184,47"/>
+<area shape="rect" id="node3" href="$class_r_w_a2_1_1_legged_robot.html#aaa07f34e1a6b12257df02353c90b1217" title="Move the robot by a given distance and angle." alt="" coords="5,71,204,98"/>
+<area shape="rect" id="node4" href="$class_r_w_a2_1_1_wheeled_robot.html#a8094be3d85ddd0c0fc626c2eb2f0320c" title="Move the robot by a given distance and angle." alt="" coords="23,123,187,164"/>
+</map>

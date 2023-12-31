@@ -1,0 +1,4 @@
+<map id="RWA2::AerialRobot::print_status" name="RWA2::AerialRobot::print_status">
+<area shape="rect" id="node1" title="Print the status of the robot." alt="" coords="5,5,159,47"/>
+<area shape="rect" id="node2" href="$class_r_w_a2_1_1_mobile_robot.html#a355a94c1602869459370267bc0c0915c" title="Print the current position, orientation and speed of the robot." alt="" coords="207,5,365,47"/>
+</map>

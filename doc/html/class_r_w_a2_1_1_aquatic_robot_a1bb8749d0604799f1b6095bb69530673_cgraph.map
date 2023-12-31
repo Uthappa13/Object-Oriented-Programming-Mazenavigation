@@ -1,0 +1,5 @@
+<map id="RWA2::AquaticRobot::move" name="RWA2::AquaticRobot::move">
+<area shape="rect" id="node1" title="Move the robot in a certain distance and a certain angle." alt="" coords="5,5,161,47"/>
+<area shape="rect" id="node2" href="$class_r_w_a2_1_1_mobile_robot.html#aae4f527d8e6b9c8680aec8e3d7eb0555" title="Charge the robot&#39;s battery." alt="" coords="209,5,368,47"/>
+<area shape="rect" id="node3" href="$class_r_w_a2_1_1_battery.html#a65c31a8b2f786fa04c52383db001492a" title="Start charging the battery." alt="" coords="416,5,571,47"/>
+</map>

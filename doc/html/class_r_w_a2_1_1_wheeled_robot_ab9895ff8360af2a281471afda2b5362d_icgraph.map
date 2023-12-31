@@ -1,0 +1,4 @@
+<map id="RWA2::WheeledRobot::rotate" name="RWA2::WheeledRobot::rotate">
+<area shape="rect" id="node1" title="Rotate the robot by a given angle." alt="" coords="217,5,381,47"/>
+<area shape="rect" id="node2" href="$class_r_w_a2_1_1_wheeled_robot.html#a8094be3d85ddd0c0fc626c2eb2f0320c" title="Move the robot by a given distance and angle." alt="" coords="5,5,169,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="RWA2::AerialRobot::rotate" name="RWA2::AerialRobot::rotate">
+<area shape="rect" id="node1" title="Rotate the robot in a certain angle." alt="" coords="5,5,159,47"/>
+<area shape="rect" id="node2" href="$class_r_w_a2_1_1_mobile_robot.html#ac3137f5b21c73796c10ebaffe2edf8d6" title="Rotate the robot by a given angle." alt="" coords="207,5,365,47"/>
+</map>

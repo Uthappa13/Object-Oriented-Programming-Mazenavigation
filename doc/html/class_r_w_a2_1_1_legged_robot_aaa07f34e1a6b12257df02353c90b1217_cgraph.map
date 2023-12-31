@@ -1,0 +1,9 @@
+<map id="RWA2::LeggedRobot::move" name="RWA2::LeggedRobot::move">
+<area shape="rect" id="node1" title="Move the robot by a given distance and angle." alt="" coords="5,130,204,157"/>
+<area shape="rect" id="node2" href="$class_r_w_a2_1_1_mobile_robot.html#aae4f527d8e6b9c8680aec8e3d7eb0555" title="Charge the robot&#39;s battery." alt="" coords="266,5,425,47"/>
+<area shape="rect" id="node4" href="$class_r_w_a2_1_1_battery.html#a85e2b3766d85fe9eaeb57a094bc3ab7e" title="Discharge the battery." alt="" coords="252,71,439,98"/>
+<area shape="rect" id="node5" href="$class_r_w_a2_1_1_battery.html#ad95194b5e455d7cf18f0bedac8e1983b" title="Get the capacity of the battery." alt="" coords="273,123,418,164"/>
+<area shape="rect" id="node6" href="$class_r_w_a2_1_1_legged_robot.html#a3f30239eb0fdeade58f8cf4ce510a6ee" title="Print the status of the robot." alt="" coords="264,188,427,229"/>
+<area shape="rect" id="node7" href="$class_r_w_a2_1_1_legged_robot.html#a709bec4704eed105c66ec1ff2b5235c0" title="Rotate the robot by a given angle." alt="" coords="264,253,427,295"/>
+<area shape="rect" id="node3" href="$class_r_w_a2_1_1_battery.html#a65c31a8b2f786fa04c52383db001492a" title="Start charging the battery." alt="" coords="487,5,641,47"/>
+</map>

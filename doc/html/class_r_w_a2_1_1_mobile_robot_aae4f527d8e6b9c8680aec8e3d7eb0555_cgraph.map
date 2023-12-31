@@ -1,0 +1,4 @@
+<map id="RWA2::MobileRobot::charge_battery" name="RWA2::MobileRobot::charge_battery">
+<area shape="rect" id="node1" title="Charge the robot&#39;s battery." alt="" coords="5,5,164,47"/>
+<area shape="rect" id="node2" href="$class_r_w_a2_1_1_battery.html#a65c31a8b2f786fa04c52383db001492a" title="Start charging the battery." alt="" coords="212,5,367,47"/>
+</map>

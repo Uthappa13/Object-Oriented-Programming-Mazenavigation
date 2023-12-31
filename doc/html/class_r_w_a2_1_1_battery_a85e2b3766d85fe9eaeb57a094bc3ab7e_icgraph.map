@@ -1,0 +1,5 @@
+<map id="RWA2::Battery::discharge" name="RWA2::Battery::discharge">
+<area shape="rect" id="node1" title="Discharge the battery." alt="" coords="252,35,439,61"/>
+<area shape="rect" id="node2" href="$class_r_w_a2_1_1_legged_robot.html#aaa07f34e1a6b12257df02353c90b1217" title="Move the robot by a given distance and angle." alt="" coords="5,5,204,32"/>
+<area shape="rect" id="node3" href="$class_r_w_a2_1_1_wheeled_robot.html#a8094be3d85ddd0c0fc626c2eb2f0320c" title="Move the robot by a given distance and angle." alt="" coords="23,57,187,98"/>
+</map>

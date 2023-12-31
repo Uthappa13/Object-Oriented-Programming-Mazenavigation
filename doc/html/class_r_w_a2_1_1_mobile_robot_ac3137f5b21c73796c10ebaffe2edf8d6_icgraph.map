@@ -1,0 +1,7 @@
+<map id="RWA2::MobileRobot::rotate" name="RWA2::MobileRobot::rotate">
+<area shape="rect" id="node1" title="Rotate the robot by a given angle." alt="" coords="429,71,588,112"/>
+<area shape="rect" id="node2" href="$class_r_w_a2_1_1_aerial_robot.html#a9d2c904ef3bf65919f578c4285beeec0" title="Rotate the robot in a certain angle." alt="" coords="223,5,376,47"/>
+<area shape="rect" id="node3" href="$class_r_w_a2_1_1_aquatic_robot.html#ac56dcbb47a79db60b9c8f29226da21da" title="Rotate the robot in a certain angle." alt="" coords="221,71,377,112"/>
+<area shape="rect" id="node4" href="$class_r_w_a2_1_1_wheeled_robot.html#ab9895ff8360af2a281471afda2b5362d" title="Rotate the robot by a given angle." alt="" coords="217,136,381,177"/>
+<area shape="rect" id="node5" href="$class_r_w_a2_1_1_wheeled_robot.html#a8094be3d85ddd0c0fc626c2eb2f0320c" title="Move the robot by a given distance and angle." alt="" coords="5,136,169,177"/>
+</map>
